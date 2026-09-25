@@ -26,10 +26,12 @@ Interface moderna, rápida e reativa para loja integrada ao painel mecânico.
 * **Funcionalidades:** Compra de itens e peças in-game com alta performance e tempo de resposta instantâneo.
 * **Tecnologias:** Svelte, TypeScript, Vite, JavaScript, Lua.
 
-### 4. 💾 Automação de Backup MySQL
+### 4. 💾 Backup-Banco-de-dados (Automação MySQL)
+> 🔓 **Status:** Repositório Público (Amostra de Código) - [Ver Repositório no GitHub](https://github.com/Katiallz/Backup-Banco-de-dados)
+
 Ferramenta backend de infraestrutura para servidores e bancos de dados.
 * **Funcionalidades:** Gera e compacta backups periódicos do banco MySQL automaticamente, envia notificações via webhook e conta com tratamento robusto de erros e variáveis de ambiente.
-* **Tecnologias:** Node.js, Webhooks (Discord).
+* **Tecnologias:** Node.js, JavaScript, Webhooks (Discord).
 
 ### 5. 🏥 Painel Médico Avançado
 Sistema de gerenciamento hospitalar. 
