@@ -1,7 +1,7 @@
-# 💻 Portfólio de Scripts - Desenvolvedora FiveM (Katia)
+# 💻 Portfólio de Scripts - Desenvolvedor FiveM (Gabriel Augusto / Katiallz)
 
 Bem-vindo ao meu catálogo oficial de projetos desenvolvidos para a plataforma **FiveM (GTA RP)**! 
-Sou desenvolvedora focada em criar sistemas inovadores, otimizados e com interfaces responsivas, com ampla experiência nos frameworks **vRP**, **vRPex** e **Creative**.
+Sou desenvolvedor focado em criar sistemas inovadores, otimizados e com interfaces responsivas, com ampla experiência nos frameworks **vRP**, **vRPex** e **Creative**.
 
 > 🔒 **Nota sobre Privacidade:** Todos os projetos listados abaixo são recursos comerciais e privados. Os links para os repositórios originais estão disponíveis, porém o acesso ao código-fonte é restrito. Se você for um recrutador ou empresa e quiser avaliar a qualidade do meu código debaixo dos panos, posso fornecer acesso temporário a um dos repositórios sob demanda!
 
@@ -58,4 +58,4 @@ Sistema de infraestrutura invisível (back-end).
 Se interessou pelo meu trabalho ou tem uma oportunidade de emprego? Vamos conversar!
 Você pode me encontrar diretamente no meu Discord ou através das minhas redes profissionais.
 
-*Feito com ❤️ por Katia.*
+*Feito com ❤️ por Gabriel Augusto (Katiallz).*
