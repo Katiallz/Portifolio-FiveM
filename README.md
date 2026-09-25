@@ -11,25 +11,25 @@ Sou desenvolvedor focado em criar sistemas inovadores, otimizados e com interfac
 
 Aqui estão os destaques do meu trabalho, desde painéis de gerenciamento complexos, automações de back-end até minigames interativos:
 
-### 1. 🔧 Painel Mecânico para FiveM
+### 1. 🤖 FiveM AI Support Bot & Dashboard
+Bot de Discord integrado com Inteligência Artificial para atender lojas de FiveM.
+* **Funcionalidades:** Criação automática de tickets de suporte, painel web administrativo com senha e assistente de IA (Google Gemini) para tirar dúvidas dos clientes 24/7.
+* **Tecnologias:** Python, Flask, Discord.py, Google GenAI API, SQLite.
+
+### 2. 🔧 Painel Mecânico para FiveM
 Sistema avançado para gerenciamento de oficinas mecânicas.
 * **Funcionalidades:** Gerenciamento completo de membros, cargos, permissões, histórico de atendimentos e transações. 
 * **Tecnologias:** Lua, JavaScript, HTML, CSS, MySQL (Arquitetura Cliente-Servidor).
 
-### 2. 🛒 Loja de Mecânica com Svelte
+### 3. 🛒 Loja de Mecânica com Svelte
 Interface moderna, rápida e reativa para loja integrada ao painel mecânico.
 * **Funcionalidades:** Compra de itens e peças in-game com alta performance e tempo de resposta instantâneo.
 * **Tecnologias:** Svelte, TypeScript, Vite, JavaScript, Lua.
 
-### 3. 💾 Automação de Backup MySQL
+### 4. 💾 Automação de Backup MySQL
 Ferramenta backend de infraestrutura para servidores e bancos de dados.
 * **Funcionalidades:** Gera e compacta backups periódicos do banco MySQL automaticamente, envia notificações via webhook e conta com tratamento robusto de erros e variáveis de ambiente.
 * **Tecnologias:** Node.js, Webhooks (Discord).
-
-### 4. 🤖 FiveM AI Support Bot & Dashboard
-Bot de Discord integrado com Inteligência Artificial para atender lojas de FiveM.
-* **Funcionalidades:** Criação automática de tickets de suporte, painel web administrativo com senha e assistente de IA (Google Gemini) para tirar dúvidas dos clientes 24/7.
-* **Tecnologias:** Python, Flask, Discord.py, Google GenAI API, SQLite.
 
 ### 5. 🏥 Painel Médico Avançado
 Sistema de gerenciamento hospitalar. 
