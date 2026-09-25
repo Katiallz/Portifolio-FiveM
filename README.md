@@ -16,22 +16,22 @@ Bot de Discord integrado com Inteligência Artificial para atender lojas de Five
 * **Funcionalidades:** Criação automática de tickets de suporte, painel web administrativo com senha e assistente de IA (Google Gemini) para tirar dúvidas dos clientes 24/7.
 * **Tecnologias:** Python, Flask, Discord.py, Google GenAI API, SQLite.
 
-### 2. 🔧 Painel Mecânico para FiveM
-Sistema avançado para gerenciamento de oficinas mecânicas.
-* **Funcionalidades:** Gerenciamento completo de membros, cargos, permissões, histórico de atendimentos e transações. 
-* **Tecnologias:** Lua, JavaScript, HTML, CSS, MySQL (Arquitetura Cliente-Servidor).
-
-### 3. 🛒 Loja de Mecânica com Svelte
-Interface moderna, rápida e reativa para loja integrada ao painel mecânico.
-* **Funcionalidades:** Compra de itens e peças in-game com alta performance e tempo de resposta instantâneo.
-* **Tecnologias:** Svelte, TypeScript, Vite, JavaScript, Lua.
-
-### 4. 💾 Backup-Banco-de-dados (Automação MySQL)
+### 2. 💾 Backup-Banco-de-dados (Automação MySQL)
 > 🔓 **Status:** Repositório Público (Amostra de Código) - [Ver Repositório no GitHub](https://github.com/Katiallz/Backup-Banco-de-dados)
 
 Ferramenta backend de infraestrutura para servidores e bancos de dados.
 * **Funcionalidades:** Gera e compacta backups periódicos do banco MySQL automaticamente, envia notificações via webhook e conta com tratamento robusto de erros e variáveis de ambiente.
 * **Tecnologias:** Node.js, JavaScript, Webhooks (Discord).
+
+### 3. 🔧 Painel Mecânico para FiveM
+Sistema avançado para gerenciamento de oficinas mecânicas.
+* **Funcionalidades:** Gerenciamento completo de membros, cargos, permissões, histórico de atendimentos e transações. 
+* **Tecnologias:** Lua, JavaScript, HTML, CSS, MySQL (Arquitetura Cliente-Servidor).
+
+### 4. 🛒 Loja de Mecânica com Svelte
+Interface moderna, rápida e reativa para loja integrada ao painel mecânico.
+* **Funcionalidades:** Compra de itens e peças in-game com alta performance e tempo de resposta instantâneo.
+* **Tecnologias:** Svelte, TypeScript, Vite, JavaScript, Lua.
 
 ### 5. 🏥 Painel Médico Avançado
 Sistema de gerenciamento hospitalar. 
