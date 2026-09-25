@@ -63,6 +63,21 @@ Minigame interativo e totalmente funcional de Sinuca (Billiards).
 Sistema de infraestrutura invisível (back-end).
 * **Funcionalidades:** Gerencia os cooldowns (tempos de espera) para diversas ações de Roleplay no servidor, impedindo flood e abusos de mecânicas (anti-spam).
 
+### 13. 💊 Sistema Interativo de Venda de Drogas (NPCs)
+Script interativo e imersivo para venda de drogas a NPCs pelo mapa.
+* **Funcionalidades:** Diálogo dinâmico em 3D, chances de reação agressiva do NPC, sistema anti-spam, sistema de procurado (wanted) e pagamento automático.
+* **Tecnologias:** Lua, vRP Framework.
+
+### 14. 🏪 Painel MixMarket (Controle)
+Sistema de gerenciamento para as lojas de conveniência MixMarket.
+* **Funcionalidades:** Interface para os donos e funcionários controlarem o estoque, definirem preços e gerenciarem o fluxo de caixa dos mercadinhos.
+* **Tecnologias:** Lua, NUI, MySQL.
+
+### 15. 💻 FiveM Base Command (Boilerplate)
+Repositório de base (template) para criação rápida de comandos.
+* **Funcionalidades:** Estrutura limpa para registro de comandos, log no console e envio de mensagens no chat. Ideal para iniciar novos scripts.
+* **Tecnologias:** Lua.
+
 ---
 
 ## 🛠️ Tecnologias e Habilidades
