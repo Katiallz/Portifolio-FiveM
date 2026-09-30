@@ -11,7 +11,15 @@ Sou desenvolvedor focado em criar sistemas inovadores, otimizados e com interfac
 
 Aqui estão os destaques do meu trabalho, desde painéis de gerenciamento complexos, automações de back-end até minigames interativos:
 
-### 1. 🤖 FiveM AI Support Bot & Dashboard
+### 1. 🚀 Katia DevLab - Plataforma E-Learning & Comunidade
+> 🔒 **Status:** Repositório Privado (Propriedade Intelectual)
+
+Plataforma completa e moderna de cursos online e assinaturas, projetada para a nuvem.
+* **Funcionalidades:** Assinatura de planos pagos com checkout no Mercado Pago, cursos modulares em vídeo, progressão de alunos, certificados gerados dinamicamente, perfis de usuários com upload de fotos, sistema de comunidade (fórum), e infraestrutura Edge sem servidor (Serverless).
+* **Tecnologias:** SvelteKit (Frontend/Backend), Cloudflare Pages (Deploy Edge), Cloudflare D1 (Banco de Dados Edge SQL), Cloudflare R2 (Armazenamento de Imagens), Prisma ORM, Integração com API do Mercado Pago.
+* **Destaque Técnico:** Migração completa de um banco de dados tradicional para Cloudflare D1, otimizando as rotas da plataforma para latência quase zero rodando na borda, além de manipulação segura de pagamentos com proteção contra CSRF e upload direto de blobs para a nuvem.
+
+### 2. 🤖 FiveM AI Support Bot & Dashboard
 Bot de Discord integrado com Inteligência Artificial para atender lojas de FiveM.
 * **Funcionalidades:** Criação automática de tickets de suporte, painel web administrativo com senha e assistente de IA (Google Gemini) para tirar dúvidas dos clientes 24/7.
 * **Tecnologias:** Python, Flask, Discord.py, Google GenAI API, SQLite.
@@ -23,7 +31,7 @@ Ferramenta backend de infraestrutura para servidores e bancos de dados.
 * **Funcionalidades:** Gera e compacta backups periódicos do banco MySQL automaticamente, envia notificações via webhook e conta com tratamento robusto de erros e variáveis de ambiente.
 * **Tecnologias:** Node.js, JavaScript, Webhooks (Discord).
 
-### 3. 🔧 Painel Mecânico para FiveM
+### 4. 🔧 Painel Mecânico para FiveM
 Sistema avançado para gerenciamento de oficinas mecânicas.
 * **Funcionalidades:** Gerenciamento completo de membros, cargos, permissões, histórico de atendimentos e transações. 
 * **Tecnologias:** Lua, JavaScript, HTML, CSS, MySQL (Arquitetura Cliente-Servidor).
