@@ -1,107 +1,109 @@
-# 💻 Portfólio de Scripts - Desenvolvedor FiveM (Gabriel Augusto / Katiallz)
+# 💻 Portfólio de Sistemas e Projetos — Gabriel Augusto (Katiallz)
+### Desenvolvedor Júnior — Soluções Assistidas por IA (Vibe Coding) & Automação
 
-Bem-vindo ao meu catálogo oficial de projetos desenvolvidos para a plataforma **FiveM (GTA RP)**! 
-Sou desenvolvedor focado em criar sistemas inovadores, otimizados e com interfaces responsivas, com ampla experiência nos frameworks **vRP**, **vRPex** e **Creative**.
+Bem-vindo ao meu catálogo oficial de projetos web, automações e sistemas desenvolvidos para a plataforma **FiveM (GTA RP)**!
 
-> 🔒 **Nota sobre Privacidade:** Todos os projetos listados abaixo são recursos comerciais e privados. Os links para os repositórios originais estão disponíveis, porém o acesso ao código-fonte é restrito. Se você for um recrutador ou empresa e quiser avaliar a qualidade do meu código debaixo dos panos, posso fornecer acesso temporário a um dos repositórios sob demanda!
+Atuo na criação de sistemas funcionais, painéis administrativos e interfaces responsivas por meio de **Desenvolvimento Assistido por IA (Vibe Coding)** e **Engenharia de Prompt**. Utilizo inteligência artificial generativa para escrever, estruturar e iterar o código-fonte nas linguagens e frameworks abaixo, concentrando minha atuação na **arquitetura da solução, regras de negócio, integração cliente-servidor, testes práticos e resolução de problemas** — sem foco em codificação manual tradicional de sintaxe.
+
+> 🔒 **Nota sobre Privacidade:** A maioria dos projetos listados abaixo são recursos comerciais e privados. Se você for um recrutador ou empresa, também disponibilizo repositórios públicos de demonstração no meu perfil principal ([@Katiallz](https://github.com/Katiallz)).
 
 ---
 
-## 📂 Catálogo de Sistemas Desenvolvidos
+## 📂 Catálogo de Sistemas Desenvolvidos (via Vibe Coding / IA)
 
-Aqui estão os destaques do meu trabalho, desde painéis de gerenciamento complexos, automações de back-end até minigames interativos:
+Aqui estão os destaques dos sistemas que concebi, estruturei e entreguei com auxílio de Inteligência Artificial:
 
 ### 1. 🚀 Katia DevLab - Plataforma E-Learning & Comunidade
 > 🔒 **Status:** Repositório Privado (Propriedade Intelectual)
 
-Plataforma completa e moderna de cursos online e assinaturas, projetada para a nuvem.
-* **Funcionalidades:** Assinatura de planos pagos com checkout no Mercado Pago, cursos modulares em vídeo, progressão de alunos, certificados gerados dinamicamente, perfis de usuários com upload de fotos, sistema de comunidade (fórum), e infraestrutura Edge sem servidor (Serverless).
-* **Tecnologias:** SvelteKit (Frontend/Backend), Cloudflare Pages (Deploy Edge), Cloudflare D1 (Banco de Dados Edge SQL), Cloudflare R2 (Armazenamento de Imagens), Prisma ORM, Integração com API do Mercado Pago.
-* **Destaque Técnico:** Migração completa de um banco de dados tradicional para Cloudflare D1, otimizando as rotas da plataforma para latência quase zero rodando na borda, além de manipulação segura de pagamentos com proteção contra CSRF e upload direto de blobs para a nuvem.
+Plataforma moderna de cursos online e assinaturas, projetada e construída com fluxo de desenvolvimento assistido por IA para rodar na nuvem.
+* **Funcionalidades:** Assinatura de planos pagos com checkout no Mercado Pago, cursos modulares em vídeo, progressão de alunos, certificados gerados dinamicamente, perfis de usuários com upload de fotos, sistema de comunidade (fórum) e infraestrutura Serverless.
+* **Tecnologias utilizadas via IA:** SvelteKit, Cloudflare Pages, Cloudflare D1 (SQL), Cloudflare R2, Prisma ORM, API do Mercado Pago.
 
 ### 2. 🤖 FiveM AI Support Bot & Dashboard
-Bot de Discord integrado com Inteligência Artificial para atender lojas de FiveM.
+Bot de Discord integrado com Inteligência Artificial para atender lojas e comunidades de FiveM.
 * **Funcionalidades:** Criação automática de tickets de suporte, painel web administrativo com senha e assistente de IA (Google Gemini) para tirar dúvidas dos clientes 24/7.
-* **Tecnologias:** Python, Flask, Discord.py, Google GenAI API, SQLite.
+* **Tecnologias utilizadas via IA:** Python, Flask, Discord.py, Google GenAI API, SQLite.
 
-### 2. 💾 Backup-Banco-de-dados (Automação MySQL)
-> 🔓 **Status:** Repositório Público (Amostra de Código) - [Ver Repositório no GitHub](https://github.com/Katiallz/Backup-Banco-de-dados)
+### 3. 💾 Backup-Banco-de-dados (Automação MySQL)
+> 🔓 **Status:** Repositório Público - [Ver Repositório no GitHub](https://github.com/Katiallz/Backup-Banco-de-dados)
 
-Ferramenta backend de infraestrutura para servidores e bancos de dados.
-* **Funcionalidades:** Gera e compacta backups periódicos do banco MySQL automaticamente, envia notificações via webhook e conta com tratamento robusto de erros e variáveis de ambiente.
-* **Tecnologias:** Node.js, JavaScript, Webhooks (Discord).
+Ferramenta de automação para servidores e bancos de dados.
+* **Funcionalidades:** Gera e compacta backups periódicos do banco MySQL automaticamente, envia notificações via webhook e conta com tratamento de erros e variáveis de ambiente.
+* **Tecnologias utilizadas via IA:** Node.js, JavaScript, MySQL, Webhooks (Discord).
 
 ### 4. 🔧 Painel Mecânico para FiveM
-Sistema avançado para gerenciamento de oficinas mecânicas.
-* **Funcionalidades:** Gerenciamento completo de membros, cargos, permissões, histórico de atendimentos e transações. 
-* **Tecnologias:** Lua, JavaScript, HTML, CSS, MySQL (Arquitetura Cliente-Servidor).
+> 🔓 **Status:** Repositório Público - [Ver Repositório no GitHub](https://github.com/Katiallz/Painel-Mecanico-Fivem)
 
-### 4. 🛒 Loja de Mecânica com Svelte
+Sistema completo para gerenciamento de oficinas mecânicas.
+* **Funcionalidades:** Gerenciamento de membros, cargos, permissões, histórico de atendimentos e transações financeiras.
+* **Tecnologias utilizadas via IA:** Lua, JavaScript, HTML, CSS, MySQL (Arquitetura Cliente-Servidor).
+
+### 5. 🛒 Loja de Mecânica com Svelte
+> 🔓 **Status:** Repositório Público - [Ver Repositório no GitHub](https://github.com/Katiallz/Fivem-Mechanicshop)
+
 Interface moderna, rápida e reativa para loja integrada ao painel mecânico.
-* **Funcionalidades:** Compra de itens e peças in-game com alta performance e tempo de resposta instantâneo.
-* **Tecnologias:** Svelte, TypeScript, Vite, JavaScript, Lua.
+* **Funcionalidades:** Compra de itens e peças in-game com comunicação cliente-servidor.
+* **Tecnologias utilizadas via IA:** Svelte, TypeScript, Vite, JavaScript, Lua.
 
-### 5. 🏥 Painel Médico Avançado
-Sistema de gerenciamento hospitalar. 
+### 6. 🏥 Painel Médico Avançado
+Sistema de gerenciamento hospitalar.
 * **Funcionalidades:** Controle de médicos, acesso ao histórico de pacientes, contratações, demissões e balanço financeiro do hospital.
-* **Tecnologias:** Lua, NUI (HTML/CSS/JS), SQL.
+* **Tecnologias utilizadas via IA:** Lua, NUI (HTML/CSS/JS), SQL.
 
-### 6. 🚓 Painel Policial (MDT/CopNet)
+### 7. 🚓 Painel Policial (MDT/CopNet)
 Terminal inteligente para a corporação policial.
 * **Funcionalidades:** Gerenciamento da equipe de oficiais, controle do cofre da corporação, distribuição de patentes e permissões.
 
-### 7. 🔫 Painel Genérico de Facções/Organizações
-Feito para organizações ilegais (Máfias, Motoclubes, Gangues).
-* **Funcionalidades:** Permite aos líderes gerenciar membros, salários, e as finanças da facção de forma simples e intuitiva através de uma interface clean.
+### 8. 🔫 Painel Genérico de Facções/Organizações
+Feito para organizações in-game.
+* **Funcionalidades:** Permite aos líderes gerenciar membros, salários e as finanças da organização de forma simples e intuitiva através de uma interface clean.
 
-### 8. 🍔 Painel & Loja Burgershot
-Um combo de gerenciamento corporativo e PDV (Ponto de Venda).
-* **Funcionalidades:** Painel para o dono gerenciar funcionários e finanças + Sistema de "Loja" em que os clientes podem comprar combos e lanches diretamente na interface gráfica.
+### 9. 🍔 Painel & Loja Burgershot
+Combo de gerenciamento corporativo e PDV (Ponto de Venda).
+* **Funcionalidades:** Painel para gerenciar funcionários e finanças + Sistema de Loja em que os clientes compram combos e lanches diretamente na interface gráfica.
 
-### 9. 🐱 Painel & Loja CatCafe
-Similar ao Burgershot, porém tematizado e com mecânicas próprias para o CatCafe (cafés especiais, doces).
+### 10. 🐱 Painel & Loja CatCafe
+Similar ao Burgershot, porém tematizado e com mecânicas próprias para o CatCafe.
 
-### 10. 🏁 Sistema de Corridas (Races)
-Um sistema robusto para a criação e participação em corridas clandestinas.
-* **Funcionalidades:** Circuitos personalizados, tabela de classificação, e sistema de apostas/prêmios para os corredores.
+### 11. 🏁 Sistema de Corridas (Races)
+Sistema para criação e participação em corridas in-game.
+* **Funcionalidades:** Circuitos personalizados, tabela de classificação e sistema de prêmios para os corredores.
 
-### 11. 🎱 Ryze Sinuca (Minigame)
-Minigame interativo e totalmente funcional de Sinuca (Billiards).
-* **Funcionalidades:** Física realista, sistema de pontuação e sincronização perfeita entre os jogadores da mesma mesa no bar.
+### 12. 🎱 Ryze Sinuca (Minigame)
+Minigame interativo e funcional de Sinuca (Billiards).
+* **Funcionalidades:** Física, sistema de pontuação e sincronização entre os jogadores da mesma mesa.
 
-### 12. ⏱️ Ryze CDs (Cooldowns)
-Sistema de infraestrutura invisível (back-end).
-* **Funcionalidades:** Gerencia os cooldowns (tempos de espera) para diversas ações de Roleplay no servidor, impedindo flood e abusos de mecânicas (anti-spam).
+### 13. ⏱️ Ryze CDs (Cooldowns)
+Sistema de controle de tempo de espera (back-end).
+* **Funcionalidades:** Gerencia os cooldowns para diversas ações no servidor, impedindo flood e abusos de mecânicas (anti-spam).
 
-### 13. 💊 Sistema Interativo de Venda de Drogas (NPCs)
-Script interativo e imersivo para venda de drogas a NPCs pelo mapa.
-* **Funcionalidades:** Diálogo dinâmico em 3D, chances de reação agressiva do NPC, sistema anti-spam, sistema de procurado (wanted) e pagamento automático.
-* **Tecnologias:** Lua, vRP Framework.
+### 14. 💊 Sistema Interativo de Venda (NPCs)
+> 🔓 **Status:** Repositório Público - [Ver Repositório no GitHub](https://github.com/Katiallz/fivem-drugs-script)
 
-### 14. 🏪 Painel MixMarket (Controle)
-Sistema de gerenciamento para as lojas de conveniência MixMarket.
-* **Funcionalidades:** Interface para os donos e funcionários controlarem o estoque, definirem preços e gerenciarem o fluxo de caixa dos mercadinhos.
-* **Tecnologias:** Lua, NUI, MySQL.
+Script interativo para abordagem de NPCs pelo mapa.
+* **Funcionalidades:** Diálogo dinâmico em 3D, chances de reação do NPC, sistema anti-spam, sistema de procurado e pagamento automático.
+* **Tecnologias utilizadas via IA:** Lua, vRP Framework.
 
-### 15. 💻 FiveM Base Command (Boilerplate)
-Repositório de base (template) para criação rápida de comandos.
-* **Funcionalidades:** Estrutura limpa para registro de comandos, log no console e envio de mensagens no chat. Ideal para iniciar novos scripts.
-* **Tecnologias:** Lua.
+### 15. 🏪 Painel MixMarket (Controle)
+Sistema de gerenciamento para lojas de conveniência MixMarket.
+* **Funcionalidades:** Interface para controle de estoque, definição de preços e fluxo de caixa dos mercadinhos.
+* **Tecnologias utilizadas via IA:** Lua, NUI, MySQL.
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
+## 🛠️ Metodologia e Tecnologias (Uso via IA)
 
-- **Linguagens:** Lua (FiveM Scripting), TypeScript, JavaScript, Python, HTML5, CSS3.
-- **Frameworks Web/UI:** Svelte, Vite, Node.js, Flask.
-- **Bancos de Dados:** MySQL, MariaDB, SQLite.
-- **Frameworks FiveM:** vRP, Creative Network, ESX, QBCore.
-- **Outros:** Discord.py, Automação de Backups, Webhooks, Google Gemini AI (GenAI).
+- **Metodologia Principal:** Desenvolvimento Assistido por IA (*Vibe Coding*), Engenharia de Prompt, definição de regras de negócio, testes funcionais e depuração prática.
+- **Linguagens (geradas e integradas via IA):** Lua, TypeScript, JavaScript, Python, HTML5, CSS3.
+- **Frameworks Web/UI (via IA):** Svelte, Vite, Node.js, Flask.
+- **Bancos de Dados (via IA):** MySQL, MariaDB, SQLite.
+- **Outros:** Automação de Backups, Webhooks, Google Gemini AI (GenAI).
 
 ---
 
 ### 📩 Contato
-Se interessou pelo meu trabalho ou tem uma oportunidade de emprego? Vamos conversar!
-Você pode me encontrar diretamente no meu Discord ou através das minhas redes profissionais.
+- **LinkedIn:** [Gabriel Augusto Viana da Silva](https://www.linkedin.com/in/gabriel-augusto-viana-da-silva-a0352520a/)
+- **GitHub:** [@Katiallz](https://github.com/Katiallz)
 
-*Feito com ❤️ por Gabriel Augusto (Katiallz).*
+*Desenvolvido por Gabriel Augusto (Katiallz).*
